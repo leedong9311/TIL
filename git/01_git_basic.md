@@ -29,6 +29,14 @@ git의 기초를 배워요
 
 
 
+## git name &  email 변경
+
+`git config --global user.name "leedong"` 이름변경
+
+`git config --global user.email "leedong9311@gmail.com"` 이메일변경
+
+
+
 ## 저장소 초기화 하기
 
 ```
@@ -61,7 +69,7 @@ $ git add .
 
 
 
-##커밋 로그 확인하기
+##  커밋 로그 확인하기
 
 ```
 $ git log
