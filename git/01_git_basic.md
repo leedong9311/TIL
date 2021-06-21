@@ -96,3 +96,11 @@ $ git status
 
 git directory는 촬영장  분장을 해서 스테이지에 올리는 것은 add를 사용해서 (stage Fixes)올리고 스테이지에서 commit을 이용하며 촬영을 한다고 생각하면 된다.
 
+
+
+## git commit reset
+
+git reset HEAD~
+
+전에 기록 삭제
+
