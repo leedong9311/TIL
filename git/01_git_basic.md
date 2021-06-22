@@ -140,6 +140,8 @@ $ git push <name> <branch>
 
 ## 리모트에서 최초 CLONE 받기
 
+**최초**
+
 리모트 리포 내용을 그대로 복제
 
 ```
@@ -153,6 +155,33 @@ $ git clone <URL>
 리모트에서 다운로드
 
 ```
-$ git 
+$ git pull origin master
 ```
 
+
+
+## 강의장 < = > 집 공부/프로젝트 시나리오
+
+>  앉으면 `pull`
+>
+> 끝내기전에 `commit`
+
+1. 집에서 기상 
+2. 강의장에 도착
+3. 공부/TIL  정리
+   1. `commit`
+4. 강의 종류
+   1. `commit`
+   2. `push`
+5. 집 도착
+6. 복습
+   1. (Day-1)`clone`
+   2.  `pull`
+   3.  `commit`
+7. 복습 끝
+   1. `commit`
+   2. `push`
+8. 잠
+9. 강의장 도착
+   1. `pull`
+   2. `commit`
