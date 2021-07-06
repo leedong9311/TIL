@@ -83,7 +83,7 @@ ex_vec <- c(TRUE , FALSE , TRUE , FALSE)
 typeof(ex_vec)
 mode(ex_vec)
 
-str_vec <- c('임정섭' , '섭섭해' , '임섭순' ,'임은결' ,'임재원')
+str_vec <- c('가나다' , '섭섭해' , '라마바' ,'사아자' ,'차카타')
 typeof(str_vec)
 mode(str_vec)
 str(str_vec)
